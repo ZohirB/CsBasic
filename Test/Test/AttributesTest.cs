@@ -4,7 +4,7 @@ public class AttributesTest
 {
     
     public static void testAttributes()
-    {
+    { 
         Update[] updates =
         {
             new Update(1, "test1"),
